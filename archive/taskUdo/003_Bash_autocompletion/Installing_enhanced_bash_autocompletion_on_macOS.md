@@ -1,4 +1,4 @@
-
+# Installing enhanced bash autocompletion on macOS (aka getting comfier on the command line)
 
 
 ## Background - Why bother?
